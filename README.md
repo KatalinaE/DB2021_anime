@@ -9,6 +9,7 @@
 ![Anime](https://user-images.githubusercontent.com/55049564/118159304-88645b00-b425-11eb-8b0e-7a7fad0fe9f5.jpg)
 ## Физическая модель
 Для создания данной модели используется СУБД PostgreSQL. Логическая модель переносится в такой вид, что становится понятной компьютеру.
+
 ![anime](https://user-images.githubusercontent.com/55049564/118159486-bb0e5380-b425-11eb-8a2c-21256f622f56.png)
 ## DDL скрипты
 Теперь мы создаём таблицы для нашей базы (на самом деле это потребовалось ещё на предыдущем шаге). Все CREATE-запросы можно увидеть [здесь](https://github.com/KatalinaE/DB2021_anime/tree/main/DDL).

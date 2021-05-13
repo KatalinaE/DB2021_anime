@@ -8,10 +8,10 @@
 ## Логическая модель
 На данном этапе мы дополняем концептуальную модель путём добавления к сущностям атрибутов:
 
-![anime](https://user-images.githubusercontent.com/55049564/118164071-58b85180-b42b-11eb-86d1-362ee22b2285.png)
+![Anime](https://user-images.githubusercontent.com/55049564/118164296-9d43ed00-b42b-11eb-9c47-95c505d70244.jpg)
 ## Физическая модель
 Для создания данной модели используется СУБД PostgreSQL. Логическая модель переносится в такой вид, что становится понятной компьютеру.
 
-![anime](https://user-images.githubusercontent.com/55049564/118159486-bb0e5380-b425-11eb-8a2c-21256f622f56.png)
+![anime](https://user-images.githubusercontent.com/55049564/118164240-8ac9b380-b42b-11eb-93b5-26edb61234d0.png)
 ## DDL скрипты
 Теперь мы создаём таблицы для нашей базы (на самом деле это потребовалось ещё на предыдущем шаге). Все CREATE-запросы можно увидеть [здесь](https://github.com/KatalinaE/DB2021_anime/tree/main/DDL).
